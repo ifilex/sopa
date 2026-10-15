@@ -1,0 +1,6 @@
+{
+  "name": "Sopa Zen - Estimulación Cognitiva",
+  "description": "Juego móvil de sopa de letras multilingüe con estimulación neurocognitiva, dificultad adaptativa, frase zen final, panel terapéutico y reportes clínicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
